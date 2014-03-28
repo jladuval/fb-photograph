@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/jladuval/fb-photograph",
   "dependencies": {
-    "form-data": "^0.1.2"
+    "form-data": "*"
   }
 }
