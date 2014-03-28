@@ -1,6 +1,6 @@
 {
   "name": "fb-photograph",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A small facebook module to easily get photos onto facebook",
   "main": "app.js",
   "scripts": {
