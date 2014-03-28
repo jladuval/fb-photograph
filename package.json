@@ -1,0 +1,28 @@
+{
+  "name": "fb-photograph",
+  "version": "0.0.0",
+  "description": "A small facebook module to easily get photos onto facebook",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jladuval/fb-photograph.git"
+  },
+  "keywords": [
+    "facebook",
+    "graph",
+    "photo",
+    "upload"
+  ],
+  "author": "Jacob Duval",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jladuval/fb-photograph/issues"
+  },
+  "homepage": "https://github.com/jladuval/fb-photograph",
+  "dependencies": {
+    "form-data": "^0.1.2"
+  }
+}
